@@ -1,0 +1,12 @@
+discord.py
+aiomysql
+humanize
+python-dotenv
+openai
+aiohttp
+pytz
+gtts
+yt-dlp
+requests
+ffmpeg-python
+watchdog
